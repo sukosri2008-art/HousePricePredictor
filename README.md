@@ -22,5 +22,3 @@ streamlit run app.py
 - Real-time predictions
 - Easy-to-use interface
 
-## 👨‍💻 Author
-Sriharri
